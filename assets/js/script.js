@@ -38,7 +38,7 @@ $(document).ready(function(){
         strings: ["Desenvolvedor Web"],
         typeSpeed: 150,
         backSpeed: 90,
-        loop: false
+        loop: true
     });
 
 
